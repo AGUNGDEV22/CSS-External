@@ -1,4 +1,4 @@
-body{background:blue;}
+body{background:linear-gradient(blue,black);}
         .container{
             margin:auto;
             width:30%;
